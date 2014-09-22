@@ -1,0 +1,8 @@
+name: CKEditor List Style
+type: module
+description: This plugin adds support for setting different list styles (square, roman, decimal etc.).
+core: 8.x
+package: CKEditor
+version: VERSION
+dependencies:
+  - ckeditor
